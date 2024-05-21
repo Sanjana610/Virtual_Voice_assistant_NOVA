@@ -1,1 +1,2 @@
 # Virtual_Voice_assistant_NOVA
+Virtual Assistant is used to run machine like laptop or PC's on your own command.Virtual Assistant is an application program that understands natural language and voice commands to complete tasks for the users.This Virtual Assistant, NOVA  is used to perform typical tasks like showing date time , managing emails, open apps ,etc on your command.Python language is used to develop this virtual assistant. The Python libraries used are pyttsx3, datetime , os and smtplib.
